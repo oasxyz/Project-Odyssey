@@ -1,5 +1,5 @@
 ﻿# Project-Odyssey
-## A long-term self-learning journey to become a Fullstack Software Engineer.
+## A long-term self-learning journey to become a Fullstack Website Developer.
 
 ## What is Project Odyssey?
 Project Odyssey is my personal software engineering journey.
